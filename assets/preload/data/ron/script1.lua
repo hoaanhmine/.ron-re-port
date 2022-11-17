@@ -1,6 +1,9 @@
-function onBeatHit()
-    if curBeat % 4 == 0 then
-        cameraShake('game', 0.002, 0.2)
-	    cameraShake('hud', 0.002, 0.2)
+local allowCountdown = false
+function onStartCountdown()
+    if not allowCountdown and not seenCutscene then
+        startVideo('ron');
+        allowCountdown = true;
+        return Function_Stop;
     end
+    return Function_Continue;
 end

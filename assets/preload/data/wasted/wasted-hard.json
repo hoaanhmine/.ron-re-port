@@ -4187,7 +4187,7 @@
 				[
 					[
 						"Change Character",
-						"Dad",
+						"dad",
 						"madron"
 					]
 				]
@@ -4196,7 +4196,6 @@
 		"gfVersion": "gf",
 		"needsVoices": true,
 		"sections": 0,
-		"uiType": "normal",
 		"stage": "stage2",
 		"bpm": 120,
 		"gf": "gf"
