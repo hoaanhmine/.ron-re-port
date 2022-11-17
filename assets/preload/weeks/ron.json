@@ -1,0 +1,58 @@
+{
+	"storyName": "ron",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"ron",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ron",
+			"ron",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"wasted",
+			"ron-sad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ayo",
+			"angy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bloodshed",
+			"ron-bloodshed",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
